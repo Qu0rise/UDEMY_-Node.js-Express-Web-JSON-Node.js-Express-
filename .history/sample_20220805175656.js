@@ -3,9 +3,7 @@ console.log(add(2,3));
 console.log(name);
 
 
-setTimeout(function(){
-    console.log(name);
-},2000)
+setTimeout(,2000)
 
 
 

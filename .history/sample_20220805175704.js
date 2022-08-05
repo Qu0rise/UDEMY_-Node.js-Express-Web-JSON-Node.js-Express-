@@ -4,7 +4,7 @@ console.log(name);
 
 
 setTimeout(function(){
-    console.log(name);
+    console.log(name)
 },2000)
 
 

@@ -1,18 +1,3 @@
-const {name, add} = require("./helper")
-console.log(add(2,3));
-console.log(name);
-
-
-setTimeout(function(){
-    console.log(name);
-},2000)
-
-
-
-
-
-
-
 // console.log("my first app!");
 
 // console.log("my first app!");
